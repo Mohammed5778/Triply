@@ -1,0 +1,6 @@
+{
+  "name": "Triply - AI-Powered Ride Sharing",
+  "description": "A modern ride-sharing application built with React, featuring a seamless trip booking experience, smart suggestions powered by the Gemini API, and a clean, user-friendly interface. This is a single-page application conversion of the original multi-page Triply app.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
